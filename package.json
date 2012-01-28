@@ -1,0 +1,9 @@
+{
+    "name": "twitter-expand", 
+    "license": "MPL 1.1/GPL 2.0/LGPL 2.1", 
+    "author": "Nigel Babu", 
+    "version": "0.1", 
+    "fullName": "twitter-expand", 
+    "id": "jid1-V3F5mUFyi3SkuA", 
+    "description": "Open and expand t.co urls in a new tab"
+}
